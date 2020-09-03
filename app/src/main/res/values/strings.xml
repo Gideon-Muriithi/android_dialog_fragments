@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Fragments</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="great">Great</string>
+    <string name="good">Good</string>
+    <string name="okay">Okay</string>
+    <string name="meh">Meh</string>
+    <string name="sad">Sad</string>
+    <string name="learn_dialog_fragments">Learn Dialog Fragments</string>
+    <string name="mood_button">Mood Button</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">cancel</string>
+</resources>
